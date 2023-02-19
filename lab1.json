@@ -1,0 +1,50 @@
+[
+  {
+    "name": [
+      {
+        "first": "fahad",
+        "last": "alomran"
+      }, {
+        "first": "fahad",
+        "last": "alomran"
+      }
+    ],
+
+    "roomNumber": 2,
+    "bookingDateFrom": "12/10/2022",
+
+    "bookingDateTo": "12/11/2022",
+    "paid": true,
+    "attended": true
+  },
+  {
+    "name": [
+      {
+        "first": "sad",
+        "last": "alomran"
+      }
+    ],
+
+    "roomNumber": 4,
+    "bookingDateFrom": "12/10/2022",
+
+    "bookingDateTo": "12/11/2022",
+    "paid": true,
+    "attended": true
+  },
+  {
+    "name": [
+      {
+        "first": "ahmed",
+        "last": "alomran"
+      }
+    ],
+
+    "roomNumber": 55,
+    "bookingDateFrom": "12/10/2022",
+
+    "bookingDateTo": "12/11/2022",
+    "paid": true,
+    "attended": true
+  }
+]
